@@ -1,0 +1,62 @@
+:local(.module) {
+  background-color: #4d6dcb;
+  text-align: center;
+  padding: 25px 5px;
+}
+
+:local(.side-by-side) {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow: auto;
+  justify-content: center;
+}
+
+:local(.side) {
+  min-width: 200px;
+  max-width: 384px;
+  text-align: center;
+}
+
+:local(.right) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+:local(.side img) {
+  margin-top: 6px;
+  width: 75%;
+}
+
+:local(.center-module) {
+  display: inline-block;
+}
+
+:local(pre) {
+  font-size: 22px;
+}
+
+:local(cite) {
+  font-size: 18px;
+}
+
+:local(.salon) {
+  font-size: 28px;
+}
+
+:local(.salon_time) {
+  margin-top: 6px;
+  font-size: 22px;
+}
+
+:local(.salonText) {
+  margin-top: 22px;
+  font-weight: bold;
+}
+
+:local(.note) {
+  font-size: 24px;
+  text-align: center;
+}

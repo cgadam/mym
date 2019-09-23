@@ -1,0 +1,7 @@
+{
+  "name": "gifts",
+  "version": "1.0.0",
+  "description": "Gifts",
+  "main": "Gifts.jsx",
+  "license": "ISC"
+}

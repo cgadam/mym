@@ -1,0 +1,7 @@
+{
+  "name": "church",
+  "version": "1.0.0",
+  "description": "Church",
+  "main": "Church.jsx",
+  "license": "ISC"
+}

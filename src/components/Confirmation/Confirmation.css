@@ -1,0 +1,33 @@
+:local(.button) {
+  background-color: white;
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  border: white solid 1px;
+  text-transform: uppercase;
+  font-family: 'Imprenta';
+}
+
+:local(.confirmation) {
+  background-color: black;
+  padding-top: 20px;
+  overflow: auto;
+}
+
+:local(.message) {
+  font-size: 24px;
+  text-align: center;
+  padding: 10px;
+}
+
+:local(.date) {
+  font-size: 36px;
+  text-align: center;
+  font-weight: 600;
+}
+
+:local(.confirmationLink) {
+  font-size: 32px;
+  text-align: center;
+  margin: 30px 0;
+}

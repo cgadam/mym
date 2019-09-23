@@ -1,0 +1,7 @@
+{
+  "name": "countdowntimer",
+  "version": "1.0.0",
+  "description": "A countdown timer",
+  "main": "CountdownTimer.jsx",
+  "license": "ISC"
+}

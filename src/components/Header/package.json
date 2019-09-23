@@ -1,0 +1,7 @@
+{
+  "name": "header",
+  "version": "1.0.0",
+  "description": "The home header",
+  "main": "Header.jsx",
+  "license": "ISC"
+}

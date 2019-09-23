@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'Floch';
+  src: url('./media/fonts/DancingScript-Regular.otf');
+  font-weight: 400;
+  letter-spacing: 1.5px;
+}
+
+@font-face {
+  font-family: 'Imprenta';
+  src: url('./media/fonts/Typey.otf');
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
+  font-family: 'Floch';
+}
+
+.location:hover {
+  cursor: pointer;
+}
+
+.location img {
+  width: 45px;
+}
+
+blockquote {
+  margin: 5px;
+}
+
+pre {
+  font-family: 'Floch';
+}

@@ -1,0 +1,7 @@
+{
+  "name": "confirmation",
+  "version": "1.0.0",
+  "description": "Confirmation",
+  "main": "Confirmation.jsx",
+  "license": "ISC"
+}

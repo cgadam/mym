@@ -1,0 +1,57 @@
+:local(.module) {
+  background-color: #2e4a9e;
+  text-align: center;
+}
+
+:local(.side-by-side) {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow: auto;
+  justify-content: center;
+  padding: 25px 0;
+}
+
+:local(.side) {
+  min-width: 200px;
+  max-width: 384px;
+  text-align: center;
+}
+
+:local(.left) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+:local(.side img) {
+  width: 75%;
+}
+
+:local(.center-module) {
+  display: inline-block;
+}
+
+:local(pre) {
+  font-size: 22px;
+}
+
+@media only screen and (min-width: 600px) {
+  :local(pre) {
+    font-size: 40px;
+  }
+}
+
+:local(cite) {
+  font-size: 18px;
+}
+
+:local(.church) {
+  font-size: 24px;
+}
+
+:local(.churchText) {
+  margin-top: 22px;
+}
+
